@@ -1,0 +1,12 @@
+
+.button {
+    background-color: black;
+    color: #34C94B;
+    width: Hug(170px);
+    height: Hug(47px);
+    /* margin-right: 25px; */
+    border-radius: 12px;
+    padding: 10px 16px;
+    cursor: pointer;
+    gap: 10px;
+}
